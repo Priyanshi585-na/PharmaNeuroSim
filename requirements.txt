@@ -1,0 +1,3 @@
+numpy
+matplotlib
+pythin 3.x
